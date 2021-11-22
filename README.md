@@ -9,3 +9,6 @@ We found that applying a linear regression model to our data was not the best fi
 
 ## Next Steps in this Project
 The next steps would be to continue to tweak our project and models to obtain a better prediction. We are thinking of exploring different models such as using logistic regression or polynomial regression. 
+
+## Thank You to the Following People
+Original Dataset Used for this Project: https://www.kaggle.com/gpreda/covid-world-vaccination-progress
