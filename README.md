@@ -1,4 +1,4 @@
-# AI4All Covid-19 Vaccination Adoption Rates
+# AI4All Project Team 1-Covid-19 Vaccination Adoption Rates
 This code base houses regressions model used to predict vaccine adoptions rates in the U.S. and compare them to that of Portugal to better understand what direction the United States is heading in terms of vaccine adoption.
 
 ## Background
